@@ -1,7 +1,7 @@
 
 # Animated Ocean
 
-Bring a static ocean image back to life using shader programming.
+Bring a static ocean image to life using shader programming.
 
 ## Before
 
